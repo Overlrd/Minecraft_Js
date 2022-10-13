@@ -6,6 +6,12 @@ How i did it can be seen in this Youtube video:
 
 Demo: https://overlrd.github.io/Minecraft_Js/
 
+## What i learned?
+  - Js Software Development Basics
+  - Project Structures
+  - User Actions Handling
+  - Textures Manipulation <br/>
+
 ## How to play?
 
 Currently it has 5 types of blocks: Grass, Wood, Log, Glass and Dirt.
