@@ -65,3 +65,10 @@ body {
   top: 1px;
   left: 10px;
 }
+
+.menu ul{
+  font-size: 10px;
+  list-style: none;
+
+}
+

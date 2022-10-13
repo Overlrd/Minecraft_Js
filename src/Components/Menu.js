@@ -15,5 +15,18 @@ export const Menu = () => {
         <button onClick={() => resetWorld()}>
             Reset 
         </button>
+
+        <div >
+      <ul>
+          <li>Z : Walk Forward</li>
+          <li>S : Walk Backward</li>
+          <li>Q : Walk Left</li>
+          <li>D : Walk Right</li>
+          <li>Alt + Click : Remove Cube</li>
+          <li>Mouse : Turn Around  </li>
+          <li>1|2|3|4|5 : Switch Cube Texture  </li>
+
+    </ul> 
+      </div>
      </div>)
 }

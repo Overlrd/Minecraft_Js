@@ -11,7 +11,7 @@ import { Menu }  from './Components/Menu';
 function App() {
   return (
     <>
-      <div></div>
+      <div> </div>
       <Canvas>
       <Sky sunPosition={[100, 100, 20]}></Sky>
       <ambientLight intensity={0.5}></ambientLight>
