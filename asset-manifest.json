@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Minecraft_Js/static/css/main.01b32cdd.chunk.css",
-    "main.js": "/Minecraft_Js/static/js/main.9e8d2adb.chunk.js",
-    "main.js.map": "/Minecraft_Js/static/js/main.9e8d2adb.chunk.js.map",
+    "main.css": "/Minecraft_Js/static/css/main.0568d334.chunk.css",
+    "main.js": "/Minecraft_Js/static/js/main.5fab08f9.chunk.js",
+    "main.js.map": "/Minecraft_Js/static/js/main.5fab08f9.chunk.js.map",
     "runtime-main.js": "/Minecraft_Js/static/js/runtime-main.48148699.js",
     "runtime-main.js.map": "/Minecraft_Js/static/js/runtime-main.48148699.js.map",
     "static/js/2.b22432d6.chunk.js": "/Minecraft_Js/static/js/2.b22432d6.chunk.js",
     "static/js/2.b22432d6.chunk.js.map": "/Minecraft_Js/static/js/2.b22432d6.chunk.js.map",
     "index.html": "/Minecraft_Js/index.html",
-    "static/css/main.01b32cdd.chunk.css.map": "/Minecraft_Js/static/css/main.01b32cdd.chunk.css.map",
+    "static/css/main.0568d334.chunk.css.map": "/Minecraft_Js/static/css/main.0568d334.chunk.css.map",
     "static/js/2.b22432d6.chunk.js.LICENSE.txt": "/Minecraft_Js/static/js/2.b22432d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.48148699.js",
     "static/js/2.b22432d6.chunk.js",
-    "static/css/main.01b32cdd.chunk.css",
-    "static/js/main.9e8d2adb.chunk.js"
+    "static/css/main.0568d334.chunk.css",
+    "static/js/main.5fab08f9.chunk.js"
   ]
 }
