@@ -4,7 +4,7 @@ This project is just me trying to mimic Minecraft in React.
 How i did it can be seen in this Youtube video:
 [![Video preview](https://img.youtube.com/vi/qpOZup_3P_A/0.jpg)](https://www.youtube.com/watch?v=qpOZup_3P_A)
 
-Demo: https://minecraft-freecodecamp.vercel.app/
+Demo: https://overlrd.github.io/Minecraft_Js/
 
 ## How to play?
 
