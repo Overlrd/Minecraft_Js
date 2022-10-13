@@ -16,5 +16,4 @@ You world is stored in your browsers local storage.
 
 ![Preview](preview.png 'Preview')
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
