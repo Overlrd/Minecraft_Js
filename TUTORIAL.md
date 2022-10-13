@@ -17,4 +17,4 @@
 
 To add :
 
-- Save word online for cooperative building 
+- Save world online for cooperative building 
